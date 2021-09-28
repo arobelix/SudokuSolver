@@ -1,0 +1,22 @@
+{
+  "name": "sudokusolver",
+  "version": "1.0.0",
+  "description": "solves sudoku puzzles",
+  "main": "index.js",
+  "scripts": {
+    "develop": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arobelix/SudokuSolver.git"
+  },
+  "author": "arobelix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arobelix/SudokuSolver/issues"
+  },
+  "homepage": "https://github.com/arobelix/SudokuSolver#readme",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
